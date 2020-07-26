@@ -1,9 +1,9 @@
 # Processing files
 
-Create a processing files animation.
+Creating a processing files animation.
 
-Use the given html file and icons in the `images` folder.
+Using html file and icons in the `images` folder.
 
 Processing Example:
 
-![](./processing-example.gif)
+![example](./processing-example.gif)
