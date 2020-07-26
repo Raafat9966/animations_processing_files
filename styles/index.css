@@ -34,6 +34,7 @@ img {
 }
 
 .processing-label {
+	text-shadow: 5px 5px 10px rgb(104, 103, 103);
 	position: absolute;
 	top: 65px;
 	left: 15px;
